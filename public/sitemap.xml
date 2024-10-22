@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://127.0.0.1:8000/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>http://127.0.0.1:8000/sitemap/page-sitemap.xml</loc>
+    
+        <lastmod>2024-10-22T10:01:18+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>http://127.0.0.1:8000/sitemap/categories-sitemap.xml</loc>
+    
+        <lastmod>2024-10-22T10:01:18+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>http://127.0.0.1:8000/sitemap/regions-sitemap.xml</loc>
+    
+        <lastmod>2024-10-22T10:01:18+00:00</lastmod>
+    </sitemap>
+</sitemapindex>
